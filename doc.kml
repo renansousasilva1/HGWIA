@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2023 -  MAPA FAVELAS RIO - APP1</name>
+    <description><![CDATA[LEGENDA:<br><br>ÍCONES:<br>5M: MILÍCIA;<br>CL: MILÍCIA DO BONDE DO ZINHO;<br>ADA: AMIGO DOS AMIGOS;<br>CV: COMANDO VERMELHO;<br>TCP: TERCEIRO COMANDO "PURO"<br><br>ZONAS ADMINISTRATIVAS:<br><br>AMARELO: ZONA SUL<br>AZUL: ZONA OESTE<br>VERDE: ZONA NORTE<br>VERMELHO: ZONA CENTRAL<br>]]></description>
+    <NetworkLink>
+      <name>2023 -  MAPA FAVELAS RIO - APP1</name>
+      <Link>
+        <href>https://www.google.com/maps/d/u/0/kml?mid=1PmDUHTSeFGN2-NGAQyzbTA92cPS5weN1</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
